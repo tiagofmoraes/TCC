@@ -1,0 +1,9 @@
+#Teste 001.branch2
+#Teste 001.Branch1
+<<<<<<< HEAD
+#Inserção DES-BBBB
+=======
+#Nova linha desAAAAA
+#Inserção DES-B
+>>>>>>> f1e668bbb251e899caeef1f07f0d999176a39bff
+# TCC.
